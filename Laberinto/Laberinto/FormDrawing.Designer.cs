@@ -1,7 +1,7 @@
 ﻿
 namespace Laberinto
 {
-    partial class Form1
+    partial class FormDrawing
     {
         /// <summary>
         /// Variable del diseñador necesaria.
